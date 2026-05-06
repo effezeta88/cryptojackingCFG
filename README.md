@@ -1,6 +1,6 @@
 # Cryptojacking CFG Dataset
 
-Due to the large size of the files, the dataset is available at the following link: 10.5281/zenodo.20053301
+Due to the large size of the files, the dataset is available at the following link: [10.5281/zenodo.20053301](https://doi.org/10.5281/zenodo.20053301)
 
 The repository contains the dataset of **Control Flow Graphs (CFGs)** used in the paper *Linking Structure and Time: A Lineage-Based Framework for Cryptojacking Analysis*.
 
