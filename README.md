@@ -39,7 +39,7 @@ These CFGs were generated as part of the experimental workflow described in the 
 
 The dataset is available at:
 
-**https://github.com/effezeta88/cryptojackingCFG.git**
+**[https://github.com/effezeta88/cryptojackingCFG.git](https://doi.org/10.5281/zenodo.20053301)**
 
 ## Intended Use
 
